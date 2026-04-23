@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "MLModel",
+    "displayName": "ML_fuel_forecast"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "716a343e-aa11-b4cb-42d2-0dcddc25cc0a"
+  }
+}
